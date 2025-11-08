@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model-Stable%20Diffusion-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML%20Framework-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Image%20Library-Pillow-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hosted%20on-Hugging%20Face-F8D545?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
 # 🤖 Diffusion Model Meme Generator
 
 A **Streamlit-based web application** that uses **Stable Diffusion** and **LoRA weights** to generate custom memes by combining a text-to-image prompt with user-provided overlay text.
