@@ -4,7 +4,7 @@ A **Streamlit-based web application** that uses **Stable Diffusion** and **LoRA 
 
 
 ### Main Application Interface
-![Main application interface](assets/Screenshot_meme_app.png)
+![Main application interface](assets/screenshot_meme_app.png)
 
 ## 📋 Table of Contents
 
