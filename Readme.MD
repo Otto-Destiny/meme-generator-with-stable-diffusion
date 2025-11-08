@@ -3,9 +3,8 @@
 A **Streamlit-based web application** that uses **Stable Diffusion** and **LoRA weights** to generate custom memes by combining a text-to-image prompt with user-provided overlay text.
 
 
-![Application Flowchart](assets/Screenshot_meme_app.png)
-
----
+### Main Application Interface
+![Main application interface](assets/Screenshot_meme_app.png)
 
 ## 📋 Table of Contents
 
